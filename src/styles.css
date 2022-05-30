@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 2px solid blue;
+  width: 50%;
+  border-collapse: collapse;
+}
+table {
+  margin: auto;
+}
+td {
+  width: 90px;
+  padding: 8px;
+}
+button {
+  background-color: greenyellow;
+  border-color: greenyellow;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  color: blue;
+}
+input {
+  border-color: papayawhip;
+  width: 30%;
+  height: 40px;
+}
+h1 {
+  color: blue;
+}
+#aaa {
+  background-color: pink;
+}
+label {
+  color: blue;
+}
